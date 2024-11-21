@@ -2,15 +2,5 @@
   "name": "Governance Token",
   "symbol": "GOV",
   "description": "Token de gouvernance pour la DAO",
-  "image": "https://goodflair.com/app/uploads/2024/07/beautiful-bengal-cat-1024x682.jpg",
-  "attributes": [],
-  "properties": {
-    "category": "image",
-    "creators": [
-      {
-        "address": "2L2nDRhEgmpy3V3TPtwZ18etpJmbsrxL2Q1ENerhUTi2",
-        "share": 100
-      }
-    ]
-  }
+  "image": "https://goodflair.com/app/uploads/2024/07/beautiful-bengal-cat-1024x682.jpg"
 }
