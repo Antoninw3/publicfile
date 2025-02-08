@@ -1,15 +1,15 @@
 {
   "name": "Service Informatique",
   "description": "50h d'informatique par mois découpé en 6h30",
-  "image": "https://arweave.net/my-image",
+  "image": "https://github.com/Antoninw3/publicfile/blob/main/1732244041121.jpg",
   "external_url": "https://www.linkedin.com/in/boinega/",
   "attributes": [
   ],
   "properties": {
     "files": [
       {
-        "uri": "https://arweave.net/my-image",
-        "type": "image/png"
+        "uri": "https://github.com/Antoninw3/publicfile/blob/main/1732244041121.jpg",
+        "type": "image/jpg"
       }
     ],
     "category": "image"
